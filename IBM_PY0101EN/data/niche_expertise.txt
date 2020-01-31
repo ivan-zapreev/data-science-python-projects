@@ -1,0 +1,9 @@
+Our niche expertise covers: 
+• Go-to-Market Roles:  Account Executive  /  Pre-sales Consultant  /  VP Sales  /  Business Development Executive
+• Big Data:  Hadoop  /  Spark  /  Cloudera  /   MapR Tech  /  Hortonworks 
+• Data Science:  R  /  Python  /  Matlab  /  SAS / Cognos
+• BI Suite:  MSBI  /  Tableau  /  Sisense  /  Power BI  /  QlikView
+• Machine Learning:  Keras  /  Torch  /   Ms Azure  /  AML  /  Tensorflow
+• Cloud:  AWS  /  Azure  /  Google Cloud Platform
+• Software Engineering: JavaScript (Vue, React, Angular etc)  /  TypeScript  /  Java (Spring, MVC, Struts etc)  /  .NET 
+• Other Digital Roles: Business Analysis  /   Automated Test Engineering  /  Project Management  /  Scrum Master  /  Platform Engineering
